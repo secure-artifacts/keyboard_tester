@@ -1,7 +1,13 @@
-# Keyboard Tester
+# Keyboard Tester (Moved)
+
+> **⚠️ NOTICE: THIS PROJECT HAS MOVED to a new repository and URL!**
+> 
+> New Repository: [https://github.com/secure-artifacts/keyboard_tester](https://github.com/secure-artifacts/keyboard_tester)
+> New Website: [https://secure-artifacts.github.io/keyboard_tester/](https://secure-artifacts.github.io/keyboard_tester/)
+> 
+> 请使用新网址访问本工具。Please use the new URL to access the tool.
 
 A premium, dark-mode web application for testing keyboard inputs. Designed for checking physical keyboards (Logitech, Dell, etc.) with visual feedback.
-
 ## Features
 
 -   **Visual Feedback**: Keys light up instantly upon press.
